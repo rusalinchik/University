@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PORT=12345
+PORT=1234
 echo "Сервер запущен."
 while true
 do
