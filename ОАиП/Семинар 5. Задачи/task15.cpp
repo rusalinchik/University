@@ -114,5 +114,4 @@ int main() {
         std::cout << "Канал " << i << ": min=" << p_mm[i].first
         << ", max=" << p_mm[i].second << "\n";
 
-    return 0;
 }

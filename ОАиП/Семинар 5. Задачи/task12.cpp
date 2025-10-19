@@ -46,5 +46,4 @@ int main() {
     std::cout << "Среднее потребление (начальное - конечное): " << avgConsumption << std::endl;
     std::cout << "Медиана уровня топлива: " << median << std::endl;
 
-    return 0;
 }

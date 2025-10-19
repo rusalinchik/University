@@ -51,5 +51,4 @@ int main() {
         [](double p) { if (p > 8) std::cout << p << " "; });
     std::cout << std::endl;
 
-    return 0;
 }
