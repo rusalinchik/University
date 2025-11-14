@@ -9,7 +9,7 @@
 
 Создайте базу данных с именем order_management.
 
-![](pistires\1.png)
+![](https://github.com/rusalinchik/University/blob/main/Информатика/Лабораторная%20работа%20№3/pictures/1.png?raw=true)
 
 **2. Создание таблиц**
 
